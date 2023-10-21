@@ -6,9 +6,8 @@ I had a carrer change during several years where I worked in Cinema development 
 As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity.<br/>
 Although I'm also interested in Back-End development.
 
-I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
-
 <!-- 
+I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
 Multi-faceted skills include strong organizational, time and resource management.
 Creative flair with detail oriented audiovisual attuned senses.
 Logical and analytical thinking streamlining into efficient, effective and reliable systems, technical protocols and workflows.
