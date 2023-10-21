@@ -1,7 +1,7 @@
 <h2> I’m a Developer, I.T. Expert-Generalist, Multimedia Designer and Content Manager.</h2>
 
-I started my career in 2003 (yes, not a typo). Built websites and various other multimedia solutions through my studio and also working for companies.<br/>
-I had a carrer change during several years where I worked in Cinema development but now I'm returning to Tech.
+I started my career in 2001 (yes, not a typo) building websites, video, 3D and other multimedia solutions through my studio and also working for companies.<br/>
+I had a carrer change during several years where I worked in Cinema development but I'm now returning to Tech.
 
 As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity.<br/>
 Although I'm also interested in Back-End development.
