@@ -3,8 +3,7 @@
 I started my career in 2001 (yes, not a typo) building websites, video, 3D, print and other multimedia solutions through my studio and also working for companies.<br/>
 I had a carrer change during several years where I worked in Cinema development but I'm now returning to Tech.
 
-As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity.<br/>
-Although I'm also interested in Back-End development.
+As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity. Although I'm also interested in Back-End development.
 
 <!-- 
 I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
@@ -18,7 +17,7 @@ Multi-tasking, flexibility and accuracy. -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
 </div>
 
