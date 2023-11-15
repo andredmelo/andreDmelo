@@ -1,7 +1,7 @@
-<h2> I’m a Developer, I.T. Expert-Generalist, Multimedia Designer and Content Manager.</h2>
+<h2> I’m a Developer, Multimedia Specialist, I.T. Expert-Generalist and Content Manager.</h2>
 
 I started my career in 2001 (yes, not a typo) building websites, video, 3D, print and other multimedia solutions through my studio and also working for companies.<br/>
-I had a carrer change during several years where I worked in Cinema development but I'm now returning to Tech.
+I then ventured into the film industry to do project development, manage and fine-tune image, audio, video assets and edit short pieces.
 
 As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity. Although I'm also interested in Back-End development.
 
