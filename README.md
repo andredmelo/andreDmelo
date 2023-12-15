@@ -3,7 +3,7 @@
 I started my career in 2001 (yes, not a typo) building websites, video, 3D, print and other multimedia solutions through my studio and also working for companies.<br/>
 I then ventured into the film industry to do project development, manage and fine-tune image, audio, video assets and edit short pieces.
 
-As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity. Although I'm also interested in Back-End development.
+As a developer I have more experience in Front-End development building websites. I particularly like to create interfaces and interactivity. Although I'm also interested in developing my Back-End skills.
 
 <!-- 
 I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
