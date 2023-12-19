@@ -1,5 +1,7 @@
 <h2> I’m a Developer, Multimedia Specialist, I.T. Expert-Generalist and Content Manager.</h2>
 
+<a href="http://www.andre1melo.com">andre1melo.com</a>
+
 Over the past 20+ years I've worked in various areas of development and design, building products and solutions for different industries (film, education, architecture, art, events, construction and more).<br/>
 Now focused on web development and some digital design, my main skills include coding JavaScript (mainly React and React Native), HTML and CSS, some UI/UX design (with particular fervor for IxD), motion design, image and video editing.<br/>
 For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed 10+ websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/>
