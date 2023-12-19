@@ -47,7 +47,7 @@ Multi-tasking, flexibility and accuracy. -->
 <div align="center" >
     <div style="display: flex; align-items: flex-start; justify-content: space-around;">
     <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre1melo&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img  height="200" src="https://github-readme-stats.vercel.app/api?username=andre1melo&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <!-- <img  height="200" src="https://github-readme-stats.vercel.app/api?username=andre1melo&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> -->
 </div>
     
 <!--
