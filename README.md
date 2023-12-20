@@ -2,10 +2,10 @@
 
 <a href="http://www.andre1melo.com">andre1melo.com</a>
 
-Over the past 20+ years I've worked in various areas of development and design, building products and solutions for different industries (film, education, architecture, art, events, construction and more).<br/>
-Now focused on web development and some digital design, my main skills include coding JavaScript (mainly React and React Native), HTML and CSS, some UI/UX design (with particular fervor for IxD), motion design, image and video editing.<br/>
-For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed 10+ websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/>
-I then ventured into the film industry to do project development, manage technical operations, organize and fine-tune media libraries, and edit short pieces.
+Over the past 20+ years I've worked in various areas of development and design, building products and solutions for different industries (film, education, architecture, art, events, construction and more).<br/><br/>
+Now focused on web development and some digital design, my main skills include coding JavaScript (mainly React and React Native), HTML and CSS, some UI/UX design (with particular fervor for IxD), motion design, image and video editing.<br/><br/>
+For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed 10+ websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/><br/>
+I then ventured into the film industry to do project development, manage technical operations, organize and fine-tune media libraries, and edit short pieces.<br/>
 <!-- 
 I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
 Multi-faceted skills include strong organizational, time and resource management.
