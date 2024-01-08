@@ -1,11 +1,10 @@
-<h2> I’m a Developer, Multimedia Specialist, I.T. Expert-Generalist and Content Manager.</h2>
+<h2> I’m a Creative Developer, Multimedia Specialist and I.T. Expert-Generalist.</h2>
 
 <a href="http://www.andre1melo.com">andre1melo.com</a>
 
-Over the past 20+ years I've worked in various areas of development and design, building products and solutions for different industries (film, education, architecture, art, events, construction and more).<br/><br/>
-Now focused on web development and some digital design, my main skills include coding JavaScript (mainly React and React Native), HTML and CSS, some UI/UX design (with particular fervor for IxD), motion design, image and video editing.<br/><br/>
+Now focused on creative web development and some digital design, my main skills include JavaScript, HTML and CSS, motion design, some UI/UX design (with particular fervor for IxD), image and video editing.<br/><br/>
 For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed 10+ websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/><br/>
-I then ventured into the film industry to do project development, manage technical operations, organize and fine-tune media libraries, and edit short pieces.<br/>
+I then ventured into the film industry (from 2013 to 2023) to do project development, manage technical operations, organize and fine-tune vast media libraries, editing of several short video pieces and creative development of online and offline presentations.<br/>
 <!-- 
 I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
 Multi-faceted skills include strong organizational, time and resource management.
@@ -13,15 +12,15 @@ Creative flair with detail oriented audiovisual attuned senses.
 Logical and analytical thinking streamlining into efficient, effective and reliable systems, technical protocols and workflows.
 Multi-tasking, flexibility and accuracy. -->
 
-### Languages :
+<!-- ### Languages :
 <div id="header" align="left" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp; -->
-    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp; -->
-</div>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
+<!-- </div> -->
+<!-- 
 <br/>
 
 ### Tools :
@@ -41,7 +40,7 @@ Multi-tasking, flexibility and accuracy. -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premier" **alt="Premier" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="AfterEffects" **alt="AfterEffects" width="40" height="40"/>&nbsp;
 </div>
-
+ -->
 <br> <br/>
 
 <div align="center" >
