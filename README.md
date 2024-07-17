@@ -1,6 +1,6 @@
 <h2> Creative Developer, Multimedia Specialist and I.T. Expert-Generalist.</h2>
 
-<a href="http://www.andre1melo.com">andre1melo.com</a>
+<!-- <a href="http://www.andre1melo.com">andre1melo.com</a> -->
 
 Now focused on creative web development, my main skills include JavaScript, HTML and CSS, motion design, some UI/UX design (with particular fervor for IxD), image and video editing.<br/><br/>
 For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/><br/>
