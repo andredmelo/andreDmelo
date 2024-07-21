@@ -1,4 +1,4 @@
-<h2> Creative Developer, Multimedia Specialist and I.T. Expert-Generalist.</h2>
+<h2> Front-End Creative Developer, Multimedia Specialist and I.T. Expert-Generalist.</h2>
 
 <!-- <a href="http://www.andre1melo.com">andre1melo.com</a> -->
 
