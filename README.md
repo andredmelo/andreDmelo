@@ -2,7 +2,7 @@
 
 <a href="http://www.andreDmelo.dev">andreDmelo.dev</a>
 
-Now focused on creative web development, my main skills include JavaScript, HTML and CSS, motion design, some UI/UX design (with particular fervor for IxD), image and video editing.<br/><br/>
+Now focused on creative web development, my main skills include JavaScript (Typescript), HTML and CSS, GSAP and Three.js, motion design, some UI/UX design (with particular fervor for IxD), image and video editing.<br/><br/>
 For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/><br/>
 I then ventured into the film industry (from 2013 to 2023) to develop on/offline projects presentations, manage vast media libraries, edit video pieces and head technical operations.<br/><br/>
 
