@@ -1,16 +1,10 @@
 <h2> Front-End Creative Developer, Multimedia Specialist and I.T. Expert-Generalist.</h2>
 
-<!-- <a href="http://www.andre1melo.com">andre1melo.com</a> -->
+<a href="http://www.andreDmelo.dev">andreDmelo.dev</a>
 
 Now focused on creative web development, my main skills include JavaScript, HTML and CSS, motion design, some UI/UX design (with particular fervor for IxD), image and video editing.<br/><br/>
 For 10 years I had a small studio (Manguekyo Studio) where I developed and deployed websites, interactive DVDs, edited video and designed print solutions for various types of industries.<br/><br/>
 I then ventured into the film industry (from 2013 to 2023) to develop on/offline projects presentations, manage vast media libraries, edit video pieces and head technical operations.<br/>
-<!-- 
-I've accumulated a vast experience with a multitude of computer technologies and varied multimedia content creation and management.
-Multi-faceted skills include strong organizational, time and resource management.
-Creative flair with detail oriented audiovisual attuned senses.
-Logical and analytical thinking streamlining into efficient, effective and reliable systems, technical protocols and workflows.
-Multi-tasking, flexibility and accuracy. -->
 
 <!-- ### Languages :
 <div id="header" align="left" >
@@ -48,17 +42,4 @@ Multi-tasking, flexibility and accuracy. -->
     <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreDmelo&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <!-- <img  height="200" src="https://github-readme-stats.vercel.app/api?username=andre1melo&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> -->
 </div>
-    
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
