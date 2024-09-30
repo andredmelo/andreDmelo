@@ -5,7 +5,7 @@ For 10 years I had a small studio (Manguekyo Studio) where I developed and deplo
 I then ventured into the film industry (from 2013 to 2023) to develop on/offline projects presentations, manage vast media libraries, edit video pieces and head technical operations.<br/><br/>
 
 <a href="http://www.andreDmelo.dev">andreDmelo.dev</a>
-<br/>
+<br/><br/>
 
 <!-- ### Languages :
 <div id="header" align="left" >
